@@ -57,6 +57,7 @@ namespace Stopwatch
 
                 Console.WriteLine("Finished stopwatch...");
                 Thread.Sleep(2000);
+                Menu();
             }
 
 
